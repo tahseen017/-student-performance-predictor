@@ -103,9 +103,8 @@ student-performance-predictor/
 10. Stretch: the same pipeline on the Portuguese subject
 11. Five-bullet summary for non-technical readers
 
-## 💼 CV bullet (once pushed)
 
-> Built a machine-learning model in Python (scikit-learn) predicting student exam scores from study behaviour, with full EDA and model evaluation.
+
 
 ## 📄 License
 
