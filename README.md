@@ -67,8 +67,8 @@ All 11 charts are in [`figures/`](figures/) (`01`–`11`), regenerated automatic
 ## ▶️ How to run
 
 ```bash
-git clone <this-repo-url>
-cd student-performance-predictor
+git clone https://github.com/tahseen017/-student-performance-predictor.git
+cd -student-performance-predictor
 pip install -r requirements.txt
 jupyter notebook student_performance_predictor.ipynb   # Kernel → Restart & Run All
 ```
